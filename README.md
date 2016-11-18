@@ -1,1 +1,6 @@
-# h5py-testing
+# h5py testing
+
+```
+pip install -r requirements.txt
+make
+```
